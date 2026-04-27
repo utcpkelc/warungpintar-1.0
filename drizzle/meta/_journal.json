@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1756202589329,
+      "tag": "0000_overjoyed_morlun",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1761464400000,
+      "tag": "0001_warung_domain",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1761486000000,
+      "tag": "0002_drop_better_auth",
+      "breakpoints": true
+    }
+  ]
+}
